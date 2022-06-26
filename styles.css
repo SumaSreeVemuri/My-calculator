@@ -26,3 +26,20 @@ html, body {
       border: 2px solid black;
       border-radius: 5px;
   }
+  .text-center{
+    text-align: center;
+  }
+
+  .mx-auto{
+    margin: auto;
+  }
+  .flex{
+    display:flex;
+  } 
+.flex-col{
+    flex-direction: column;
+  }
+  
+  .items-center{
+    align-items: center;
+  }
